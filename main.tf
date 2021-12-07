@@ -1,7 +1,7 @@
 resource "google_storage_bucket" "bucket" {
-  name = "cloud_deploy_bucket"
+  name = "ikea1789"
 }
 
 resource "google_storage_bucket" "gcs_bucket" {
-  name = "cloud_deploy_bucket"
+  name = "ikea1789"
 }
